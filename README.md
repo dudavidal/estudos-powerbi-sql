@@ -23,7 +23,7 @@ O objetivo é registrar os aprendizados em **SQL**, **modelagem de dados**, **Po
 
 ## 📂 Estrutura do curso
 
-1. **[Power BI - Starter](./01-powerbi-starter)** 🔄
+1. **[Power BI - Starter](./01-powerbi)** 🔄
    - Introdução ao Power BI
    - Primeiros gráficos e relatórios
    - Conexão com diferentes fontes de dados
@@ -89,4 +89,3 @@ O objetivo é registrar os aprendizados em **SQL**, **modelagem de dados**, **Po
 ---
 
 ✍️ *Repositório em constante atualização conforme avanço no curso.*
-
